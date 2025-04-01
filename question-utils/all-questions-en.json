@@ -1,0 +1,85 @@
+[
+    {
+        "id": 0,
+        "question": "Are you a public sector employee/official?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 1,
+        "question": "Do you belong to any of the following categories?",
+        "options": [
+            "Ministry Employee",
+            "Judge",
+            "Professor or Employee at a University/Technical Institution",
+            "Teacher",
+            "Municipal Employee",
+            "Public Healthcare/Nursing Staff & NHS Doctor",
+            "City Police Personnel",
+            "Public Sector Contract Employees (P.S.C.E.)",
+            "None of the above."
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Did you have insurance coverage for a lump sum benefit?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 3,
+        "question": "Have you established your pension rights?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 4,
+        "question": "Which of the following categories do you belong to?",
+        "options": ["Retirement due to old age", "Retirement due to permanent disability"]
+    },
+    {
+        "id": 5,
+        "question": "What is your certified disability percentage as determined by a competent medical authority?",
+        "options": ["Greater than 67%", "Less than 67%"]
+    },
+    {
+        "id": 6,
+        "question": "What is your insurance period?",
+        "options": [
+            "At least 5 years of insurance for a common illness.",
+            "No minimum insurance period is required for a work accident or occupational disease."
+        ]
+    },
+    {
+        "id": 7,
+        "question": "Which of the following categories do you belong to?",
+        "options": [
+            "Childless",
+            "Father/Mother of minor children",
+            "Public sector employee with three children"
+        ]
+    },
+    {
+        "id": 8,
+        "question": "Do you belong to any of the following categories?",
+        "options": [
+            "I have completed 40 years of service and turn 62 within 2022.",
+            "I have completed 35 years of service and am 58 years old.",
+            "I have completed 37 years of service without an age limit, having completed 25 years of service by 12/31/2010.",
+            "I have completed 25 years of service by 12/31/2022.",
+            "None of the above."
+        ]
+    },
+    {
+        "id": 9,
+        "question": "Do you belong to any of the following categories?",
+        "options": [
+            "Mother who completed 25 years of service by 2010.",
+            "Mother of minor children aged 50-60 who had accumulated 5,500 insurance days between 2010-2012.",
+            "Public sector employees who are parents of minor children with 25 years of service in 2011, had a minor child at the time of completing 25 years of service, and were born between January 1965 and July 1965 (required age: 58 years and 5 months).",
+            "None of the above."
+        ]
+    },
+    {
+        "id": 10,
+        "question": "Were you born between January 1965 and July 1965 with 21 years of service in 2011 (required age: 58 years and 5 months)?",
+        "options": ["Yes", "No"]
+    }
+]

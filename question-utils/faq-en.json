@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "question": "How long does it take for the lump sum benefit to be approved?",
+        "answer": "According to current regulations, the decision for granting the lump sum benefit is issued within a period of 6 months from the date of application submission."
+    },
+    {
+        "id": 1,
+        "question": "How can I track the progress of my application?",
+        "answer": "You can check the status of your application through the Electronic Platform of the Public Employees’ Welfare Fund or by contacting the relevant service of your insurance fund."
+    },
+    {
+        "id": 2,
+        "question": "What factors affect the amount of the lump sum benefit?",
+        "answer": "The years of insurance, the contributions paid, and the year of retirement, as changes in the calculation have been made based on recent social security reforms."
+    },
+    {
+        "id": 3,
+        "question": "Is the process of applying for the lump sum benefit available digitally?",
+        "answer": "Yes, the application process for the lump sum benefit is available digitally through the Electronic National Social Security Fund (e-EFKA)."
+    },
+    {
+        "id": 4,
+        "question": "What can I do if the issuance of the lump sum benefit is excessively delayed?",
+        "answer": "If the process is delayed beyond the expected timeframe, you can submit an acceleration request to the relevant service of your fund or contact the Citizens’ Service Office of e-EFKA."
+    }
+]

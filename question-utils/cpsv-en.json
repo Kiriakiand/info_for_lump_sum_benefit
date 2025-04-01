@@ -1,0 +1,86 @@
+{
+    "PublicService": {
+        "name": "Granting of Lump-Sum Benefit for the Public Sector",
+
+        "evidence": [
+            {
+                "id": 1,
+                "evs": [
+                    {
+                        "id": "ev0001",
+                        "type": "Evidence",
+                        "name": "Photocopy of Identity Card.",
+                        "description": "Copy of the applicant's police-issued identity card."
+                    },
+                    {
+                        "id": "ev0002",
+                        "type": "Evidence",
+                        "name": "Bank Account (IBAN)",
+                        "description": "Copy of the bank book where the pension and lump-sum benefit will be deposited."
+                    },
+                    {
+                        "id": "ev0003",
+                        "type": "Evidence",
+                        "name": "Proof of Insurance",
+                        "description": "Certificates of any previous employment in other insurance funds or sequential insurance."
+                    },
+                    {
+                        "id": "ev0004",
+                        "type": "Evidence",
+                        "name": "Certificate of Employment Changes",
+                        "description": "Document certifying the employee's employment changes."
+                    },
+                    {
+                        "id": "ev0005",
+                        "type": "Evidence",
+                        "name": "Family Status Certificate",
+                        "description": "Required if there are dependent family members."
+                    },
+                    {
+                        "id": "ev0006",
+                        "type": "Evidence",
+                        "name": "Tax Identification Number (TIN)",
+                        "description": "Declaration of the TIN in the application."
+                    },
+                    {
+                        "id": "ev0007",
+                        "type": "Evidence",
+                        "name": "Social Security Number (SSN)",
+                        "description": "Declaration of the SSN in the application."
+                    },
+                    {
+                        "id": "ev0008",
+                        "type": "Evidence",
+                        "name": "Personal and Employment Status Card (PESC)",
+                        "description": "Document containing information about the employee's career."
+                    },
+                    {
+                        "id": "ev0009",
+                        "type": "Evidence",
+                        "name": "Lump-Sum Benefit Application",
+                        "description": "Completed application form for the lump-sum benefit."
+                    },
+               
+                    {
+                        "id": "ev0010",
+                        "type": "Evidence",
+                        "name": "Pension Grant Application",
+                        "description": "Completed application form for granting the main pension."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "evs": [
+                    {
+                        "id": "ev0011",
+                        "type": "Evidence",
+                        "name": "Notification of Disability Certification Result (N.D.C.R.)",
+                        "description": "Certificate from the Disability Certification Center (D.C.C.) that determines the disability percentage."
+                    }
+                ]
+            }
+            
+        ]
+    }
+}
